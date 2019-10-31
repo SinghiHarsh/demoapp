@@ -1,0 +1,20 @@
+.grid-container {
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 450px 450px 450px;
+    padding: 10px;
+    margin-top: 120px;
+    margin-left: 2.5%;
+    /* margin-right: auto; */
+  }
+.gc {
+    height: 400px;
+    width: 400px;
+    border: 2px solid #FB9FA4;
+    background-image: linear-gradient(to bottom right , rgba(0,0,0,0.1) , rgba(0,0,0,0.9));
+}
+img{
+    height: 100%;
+    width: 100%;
+     
+}
